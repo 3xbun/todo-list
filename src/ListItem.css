@@ -1,0 +1,12 @@
+.list {
+  color: #f8f8f2;
+  background-color: #bd93f9;
+  width: 80%;
+  margin: 0 auto 2em;
+  height: 50px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 1em;
+  align-items: center;
+}
